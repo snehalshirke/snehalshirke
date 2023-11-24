@@ -89,7 +89,7 @@
 <table >
 	<tr align="center">
 		<td >
-			<img src="/.github/icons/apollo.svg" width="60"/>
+			<img src="/.github/icons/javascript.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/redux.svg" width="60"/>
