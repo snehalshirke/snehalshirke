@@ -71,7 +71,7 @@
 			<img src="/.github/icons/visualstudio.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/bash.svg" width="60"/>
+			<img src="/.github/icons/flutter.svg" width="60"/>
 		</td>
 		<!-- <td >
 			<img src="/.github/icons/s3.svg" width="60"/>
