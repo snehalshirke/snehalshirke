@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I'm Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="200" alt="coding cat">
+# 👋 Hi there, I'm Snehal Shirke!</a> <img align='bottom' src="/.github/cat.gif" height="" width="200" alt="coding cat">
 
 </div>
 
