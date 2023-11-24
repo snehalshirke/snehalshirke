@@ -28,7 +28,7 @@
 <table >
 	<tr align="center">
 		<td>
-			<img src="/.github/icons/typescript.svg" width="60"/>
+			<img src="/.github/icons/java.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/react.png" width="60"/>
