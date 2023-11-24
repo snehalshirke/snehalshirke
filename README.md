@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I'm Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
@@ -117,12 +117,6 @@
 </table>
 
 ---
-
-## <img src="/.github/code.gif" width="32" align="left"> See my projects - [snehalshirke.dev/projects](https://snehalshirke.dev/projects)
-
-<!-- <div>
- <img align='right' src="/.github/octocat.gif" width="400" alt="octocat">
-</div> -->
 
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
 
