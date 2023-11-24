@@ -82,7 +82,7 @@
 		<td>GITHUB</td>
 		<td>ANDROID STUDIO</td>
 		<td>VISUAL STUDIO</td>
-		<td>BASH</td>
+		<td>Flutter</td>
 		<!-- <td>AWS S3</td> -->
 	</tr>
 </table>
@@ -92,27 +92,27 @@
 			<img src="/.github/icons/javascript.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
+			<img src="/.github/icons/materialui.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/bootstrap.svg" width="60"/>
 		</td>
-		<td >
+		<!-- <td >
 			<img src="/.github/icons/framer.png" width="60"/>
-		</td>
-		<td >
+		</td> -->
+		<!-- <td >
 			<img src="/.github/icons/vercel.svg" width="60"/>
-		</td>
+		</td> -->
 		<td >
 			<img src="/.github/icons/bash.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
 		<td>JAVASCRIPT</td>
-		<td>Redux</td>
+		<td>Material UI</td>
 		<td>Bootstrap</td>
-		<td>Framer Motion</td>
-		<td>Vercel</td>
+		<!-- <td>Framer Motion</td>
+		<td>Vercel</td> -->
 		<td>Bash</td>
 	</tr>
 </table>
