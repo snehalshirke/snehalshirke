@@ -78,11 +78,11 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>Nest.js</td>
-		<td>postgreSQL</td>
-		<td>MongoDB</td>
-		<td>Material-UI</td>
-		<td>Socket.IO</td>
+		<td>GIT</td>
+		<td>GITHUB</td>
+		<td>ANDROID STUDIO</td>
+		<td>VISUAL STUDIO</td>
+		<td>BASH</td>
 		<td>AWS S3</td>
 	</tr>
 </table>
