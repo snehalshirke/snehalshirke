@@ -98,9 +98,9 @@
 		<td >
 			<img src="/.github/icons/bootstrap.svg" width="60"/>
 		</td>
-		<!-- <td >
-			<img src="/.github/icons/framer.png" width="60"/>
-		</td> -->
+		<td >
+			<img src="/.github/icons/eclipse.svg" width="60"/>
+		</td>
 		<!-- <td >
 			<img src="/.github/icons/vercel.svg" width="60"/>
 		</td> -->
@@ -112,8 +112,8 @@
 		<td>JAVASCRIPT</td>
 		<td>Material UI</td>
 		<td>Bootstrap</td>
-		<!-- <td>Framer Motion</td>
-		<td>Vercel</td> -->
+		<td>Eclipse</td>
+		<!-- <td>Vercel</td> -->
 		<td>Bash</td>
 	</tr>
 </table>
