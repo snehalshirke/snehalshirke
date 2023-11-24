@@ -73,9 +73,9 @@
 		<td >
 			<img src="/.github/icons/bash.svg" width="60"/>
 		</td>
-		<td >
+		<!-- <td >
 			<img src="/.github/icons/s3.svg" width="60"/>
-		</td>
+		</td> -->
 	</tr>
 	<tr align="center">
 		<td>GIT</td>
@@ -83,7 +83,7 @@
 		<td>ANDROID STUDIO</td>
 		<td>VISUAL STUDIO</td>
 		<td>BASH</td>
-		<td>AWS S3</td>
+		<!-- <td>AWS S3</td> -->
 	</tr>
 </table>
 <table >
