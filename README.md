@@ -19,7 +19,7 @@
 ## MY GITHUB STATS
 <p align="bottom">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
-<img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&theme=radical&layout=compact&theme=radical" alt="Snehal's Github Stats" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="Snehal's Github Stats" height=160 />
 <p>
 
 ***
