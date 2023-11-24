@@ -1,26 +1,134 @@
-<h1 align="center">Hi 👋, I'm Snehal Shirke</h1>
-<h3 align="center">Software Developer</h3>
+<div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalshirke&label=Profile%20views&color=0e75b6&style=flat" alt="snehalshirke" /> </p>
+# 👋 Hi there, I am Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 📫 How to reach me **snehalshirke7148@gmail.com**
+<div>
 
-<h3 align="left">Connect with me:</h3>
+
+![](https://img.shields.io/github/followers/snehalshirke?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/snehalshirke?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=snehalshirke&style=flat-square&color=ff69b4)
+<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
+
+</div>
+
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/snehal-shirke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/snehal-shirke" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/snehalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="snehalcodes" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/snehalcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehalcodes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/snehalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehalcodes" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/snehalcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="snehalcodes" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&theme=radical&layout=compact" alt="Snehal's Github Stats" height=160 />
+<p>
+
+***
+
+## Technologies I have used
+
+<table >
+	<tr align="center">
+		<td>
+			<img src="/.github/icons/typescript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/react.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nodejs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/nextjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/expressjs.png" width="60"/>
+		</td>
+		<td>
+			<img src="/.github/icons/graphql.svg" width="60"/>
+		</td>
+    </tr>
+    <tr align="center">
+    	<td>TypeScript</td>
+    	<td>React</td>
+    	<td>Node.js</td>
+    	<td>Next.js</td>
+    	<td>Express.js</td>
+			<td>GraphQL</td>
+    </tr>
+
+</table>
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/nestjs.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/postgresql.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/mongodb.svg" width="60"/>
+		</td>
+		<td>
+			<img src="/.github/icons/materialui.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/socketio.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/s3.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Nest.js</td>
+		<td>postgreSQL</td>
+		<td>MongoDB</td>
+		<td>Material-UI</td>
+		<td>Socket.IO</td>
+		<td>AWS S3</td>
+	</tr>
+</table>
+<table >
+	<tr align="center">
+		<td >
+			<img src="/.github/icons/apollo.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/redux.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bootstrap.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/framer.png" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/vercel.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bash.svg" width="60"/>
+		</td>
+	</tr>
+	<tr align="center">
+		<td>Apollo client/server</td>
+		<td>Redux</td>
+		<td>Bootstrap</td>
+		<td>Framer Motion</td>
+		<td>Vercel</td>
+		<td>Bash</td>
+	</tr>
+</table>
+
+---
+
+## <img src="/.github/code.gif" width="32" align="left"> See my projects - [snehalshirke.dev/projects](https://snehalshirke.dev/projects)
+
+<!-- <div>
+ <img align='right' src="/.github/octocat.gif" width="400" alt="octocat">
+</div> -->
+
+## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/snehal-shirke/"><img src="/.github/icons/linkedin.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:snehalshirke7148@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/snehalshirke"><img src="/.github/icons/twitter.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/gvxq9yy33P"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact" alt="snehalshirke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&locale=en" alt="snehalshirke" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalshirke&" alt="snehalshirke" /></p>
