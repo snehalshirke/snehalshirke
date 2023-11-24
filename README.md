@@ -1,12 +1,10 @@
 <div>
 
-# 👋 Hi there, I'm Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+# 👋 Hi there, I'm Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="400" width="300" alt="coding cat">
 
 </div>
 
 <div>
-
-<h1><a href="https://bhavya.dev">bhavya.dev</a> - Visit my portfolio</h1>
 
 ![](https://img.shields.io/github/followers/snehalshirke?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/snehalshirke?label=%E2%AD%90GitHub%20stars&style=flat-square)
