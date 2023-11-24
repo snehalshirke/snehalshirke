@@ -1,10 +1,11 @@
 <div>
 
-# 👋 Hi there, I'm Snehal Shirke!</a> <img align='bottom' src="/.github/cat.gif" height="" width="200" alt="coding cat">
+# 👋 Hi there, I'm Snehal Shirke!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 </div>
 
 <div>
+
 
 
 ![](https://img.shields.io/github/followers/snehalshirke?label=follow&logo=github&style=flat-square)
@@ -16,8 +17,8 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 width=250/>
-<img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&theme=radical&layout=compact" alt="Snehal's Github Stats" height=160 width=250/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&theme=radical&layout=compact" alt="Snehal's Github Stats" height=160 />
 <p>
 
 ***
