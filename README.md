@@ -63,7 +63,7 @@
 			<img src="/.github/icons/git.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/github.svg" width="60"/>
+			<img src="/.github/icons/githubcolor.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/.github/icons/androidstudio.svg" width="60"/>
