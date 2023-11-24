@@ -31,19 +31,19 @@
 			<img src="/.github/icons/java.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/react.png" width="60"/>
+			<img src="/.github/icons/php.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/nodejs.svg" width="60"/>
+			<img src="/.github/icons/dart.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/nextjs.svg" width="60"/>
+			<img src="/.github/icons/html.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/.github/icons/expressjs.png" width="60"/>
+			<img src="/.github/icons/css.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/.github/icons/graphql.svg" width="60"/>
+			<img src="/.github/icons/mysql.svg" width="60"/>
 		</td>
     </tr>
     <tr align="center">
