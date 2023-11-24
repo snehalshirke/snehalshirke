@@ -47,12 +47,12 @@
 		</td>
     </tr>
     <tr align="center">
-    	<td>TypeScript</td>
-    	<td>React</td>
-    	<td>Node.js</td>
-    	<td>Next.js</td>
-    	<td>Express.js</td>
-			<td>GraphQL</td>
+    	<td>JAVA</td>
+    	<td>PHP</td>
+    	<td>DART</td>
+    	<td>HTML</td>
+    	<td>CSS</td>
+			<td>MYSQL</td>
     </tr>
 
 </table>
