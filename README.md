@@ -108,7 +108,7 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>Apollo client/server</td>
+		<td>JAVASCRIPT</td>
 		<td>Redux</td>
 		<td>Bootstrap</td>
 		<td>Framer Motion</td>
