@@ -12,7 +12,7 @@
 ![](https://img.shields.io/github/followers/snehalshirke?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/snehalshirke?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=snehalshirke&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical)</a>
+<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical)</a>
 
 </div>
 
