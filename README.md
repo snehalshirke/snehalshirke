@@ -20,7 +20,8 @@
 <div align="left">
   
  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehalshirke&theme=github_dark)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehalshirke&theme=github_dark)
+  ![Top Languages on GitHub]https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
+<img src="htt)
 
 <!-- <div>
 <p align="bottom">
