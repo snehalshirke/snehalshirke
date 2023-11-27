@@ -22,11 +22,11 @@
   ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehalshirke&theme=github_dark)
   ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehalshirke&theme=github_dark)
 
-<div>
+<!-- <div>
 <p align="bottom">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
 <img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="Snehal's Github Stats" height=160 />
-<p>
+<p> -->
 
 ***
 
