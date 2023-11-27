@@ -29,62 +29,6 @@
 <p> -->
 
 ***
-<style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-
-        th, td {
-            padding: 15px;
-            text-align: center;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-
-        .gif-container {
-            width: 200px;
-            height: 250px;
-            overflow: hidden;
-            float: right; /* Align to the right */
-            margin-left: 20px; /* Add some space between the table and the GIF */
-        }
-
-        .gif-container img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-
-<!-- Your first table with technologies -->
-<table>
-    <!-- ... your table content ... -->
-</table>
-
-<!-- Your second table with technologies -->
-<table>
-    <!-- ... your table content ... -->
-</table>
-
-<!-- Your third table with technologies -->
-<table>
-    <!-- ... your table content ... -->
-</table>
-
-<!-- GIF Container -->
-<div class="gif-container">
-    <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" alt="GIF">
-</div>
 
 ## Technologies I have used
 
