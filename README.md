@@ -123,8 +123,6 @@
 		<td>Bash</td>
 	</tr>
 </table>
-
-<p align="right"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 ---
 
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
@@ -134,3 +132,4 @@
 <a href="mailto:snehalshirke7148@gmail.com"><img src="/.github/icons/email.svg" width="48"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/invite/F6SQYyAV"><img src="/.github/icons/discord.svg" width="54"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="right"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
