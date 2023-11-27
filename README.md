@@ -80,9 +80,6 @@
 		<td >
 			<img src="/.github/icons/flutter.svg" width="60"/>
 		</td>
-		<!-- <td >
-			<img src="/.github/icons/s3.svg" width="60"/>
-		</td> -->
 	</tr>
 	<tr align="center">
 		<td>GIT</td>
@@ -90,7 +87,6 @@
 		<td>ANDROID STUDIO</td>
 		<td>VISUAL STUDIO</td>
 		<td>Flutter</td>
-		<!-- <td>AWS S3</td> -->
 	</tr>
 </table>
 <table >
@@ -107,9 +103,6 @@
 		<td >
 			<img src="/.github/icons/eclipse.svg" width="60"/>
 		</td>
-		<!-- <td >
-			<img src="/.github/icons/vercel.svg" width="60"/>
-		</td> -->
 		<td >
 			<img src="/.github/icons/bash.svg" width="60"/>
 		</td>
@@ -119,7 +112,6 @@
 		<td>Material UI</td>
 		<td>Bootstrap</td>
 		<td>Eclipse</td>
-		<!-- <td>Vercel</td> -->
 		<td>Bash</td>
 	</tr>
 </table>
