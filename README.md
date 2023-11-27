@@ -19,8 +19,8 @@
 ## MY GITHUB STATS
 <div align="center">
   
-  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=greeshma2903&theme=github_dark)
-  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=greeshma2903&theme=github_dark)
+  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehalshirke&theme=github_dark)
+  ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehalshirke&theme=github_dark)
 
 <div>
 <!-- <p align="bottom">
