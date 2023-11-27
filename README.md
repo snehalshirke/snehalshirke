@@ -24,7 +24,7 @@
 <!-- Additional code for displaying image to the right of the tables -->
 <div style="float: right; margin-right: 20px;">
   <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" height="250px" width="200px" alt="GIF">
-</div>
+
 
 ## Technologies I have used
 
@@ -119,6 +119,7 @@
 		<td>Bash</td>
 	</tr>
 </table>
+</div>
 ---
 
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
