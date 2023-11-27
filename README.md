@@ -12,7 +12,7 @@
 ![](https://img.shields.io/github/followers/snehalshirke?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/snehalshirke?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=snehalshirke&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical)</a>
+<a href="https://discord.gg/az7Au3ZDGW">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
 
 </div>
 
@@ -22,11 +22,11 @@
  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehalshirke&theme=github_dark)
   ![Top Languages on GitHub](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehalshirke&theme=github_dark)
 
-<div>
+<!-- <div>
 <p align="bottom">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height=160 />
 <img src="https://github-readme-stats.vercel.app/api?username=snehalshirke&show_icons=true&locale=en&layout=compact&theme=radical" alt="Snehal's Github Stats" height=160 />
-<p>
+<p> -->
 
 ***
 
