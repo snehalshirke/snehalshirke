@@ -124,7 +124,7 @@
 	</tr>
 </table>
 
-<p align="right"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
+<p align="Top|right"><img height="250px" width="200px" alt="GIF" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" /></p>
 ---
 
 ## <img src="/.github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
