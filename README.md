@@ -52,6 +52,15 @@
 		<td>
 			<img src="/.github/icons/mysql.svg" width="60"/>
 		</td>
+		<td >
+			<img src="/.github/icons/javascript.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/materialui.svg" width="60"/>
+		</td>
+		<td >
+			<img src="/.github/icons/bootstrap.svg" width="60"/>
+		</td>
     </tr>
     <tr align="center">
     	<td>JAVA</td>
@@ -60,6 +69,9 @@
     	<td>HTML</td>
     	<td>CSS</td>
 			<td>MYSQL</td>
+			<td>JAVASCRIPT</td>
+		<td>Material UI</td>
+		<td>Bootstrap</td>
     </tr>
 
 </table>
@@ -80,26 +92,6 @@
 		<td >
 			<img src="/.github/icons/flutter.svg" width="60"/>
 		</td>
-	</tr>
-	<tr align="center">
-		<td>GIT</td>
-		<td>GITHUB</td>
-		<td>ANDROID STUDIO</td>
-		<td>VISUAL STUDIO</td>
-		<td>Flutter</td>
-	</tr>
-</table>
-<table >
-	<tr align="center">
-		<td >
-			<img src="/.github/icons/javascript.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/materialui.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/bootstrap.svg" width="60"/>
-		</td>
 		<td >
 			<img src="/.github/icons/eclipse.svg" width="60"/>
 		</td>
@@ -108,9 +100,11 @@
 		</td>
 	</tr>
 	<tr align="center">
-		<td>JAVASCRIPT</td>
-		<td>Material UI</td>
-		<td>Bootstrap</td>
+		<td>GIT</td>
+		<td>GITHUB</td>
+		<td>ANDROID STUDIO</td>
+		<td>VISUAL STUDIO</td>
+		<td>Flutter</td>
 		<td>Eclipse</td>
 		<td>Bash</td>
 	</tr>
